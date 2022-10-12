@@ -1,0 +1,10 @@
+.hidden {
+    display: none;
+}
+.active {
+    display: block;
+}
+.container {
+    margin: 0 auto;
+    width: fit-content;
+}
